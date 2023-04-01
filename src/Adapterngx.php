@@ -1,10 +1,10 @@
 <?php
 
-namespace Adapterngx;
+namespace AdapterNgx;
 
 use Exception;
 
-class Adapterngx
+class AdapterNgx
 {
     public const VERSION = "0.1.0";
 
